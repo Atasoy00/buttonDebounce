@@ -9,8 +9,14 @@ Hardware prewiev:
 Theory of operation :
 
 Button 1 -> LED 1
+
+
 Button 2 -> LED 2
+
+
 Button 3 -> LED 3
+
+
 Button 4 -> LED 4
 
 When any of the four buttons is pressed, if the debounce period has been completed, the LED connected to the pressed button is toggled.
